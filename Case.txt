@@ -1,0 +1,14 @@
+4- Pharmacy Management System
+Core Features:
+●	Inventory Management:
+○	Medicine cataloging and pricing
+○	Stock level tracking and reorder points
+○	Expiration date tracking
+●	Customer Relationship Management (CRM):
+○	Customer profile management
+○	Loyalty programs
+○	Medical history tracking
+●	Financial Management:
+○	Sales and revenue tracking
+○	Expense tracking
+○	Profit and loss reports
