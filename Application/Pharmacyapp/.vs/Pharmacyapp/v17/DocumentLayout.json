@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\transactions.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|solutionrelative:transactions.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\editprofile.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|solutionrelative:editprofile.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\editprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|solutionrelative:editprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|d:\\pharmacy management system (1)\\application\\pharmacyapp\\transactions.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|solutionrelative:transactions.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\stockpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|solutionrelative:stockpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\stockpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|solutionrelative:stockpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|solutionrelative:model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\model2.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{FA45CC32-FE44-4EF6-A7C6-DE03BF072809}|Pharmacyapp.csproj|solutionrelative:model2.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Stockpage.xaml.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Stockpage.xaml.cs",
+              "RelativeDocumentMoniker": "Stockpage.xaml.cs",
+              "ToolTip": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Stockpage.xaml.cs",
+              "RelativeToolTip": "Stockpage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:02:53.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stockpage.xaml",
+              "DocumentMoniker": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Stockpage.xaml",
+              "RelativeDocumentMoniker": "Stockpage.xaml",
+              "ToolTip": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Stockpage.xaml",
+              "RelativeToolTip": "Stockpage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T17:02:42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Editprofile.xaml.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Editprofile.xaml.cs",
+              "RelativeDocumentMoniker": "Editprofile.xaml.cs",
+              "ToolTip": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Editprofile.xaml.cs",
+              "RelativeToolTip": "Editprofile.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:11:38.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editprofile.xaml",
+              "DocumentMoniker": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Editprofile.xaml",
+              "RelativeDocumentMoniker": "Editprofile.xaml",
+              "ToolTip": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Editprofile.xaml",
+              "RelativeToolTip": "Editprofile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T15:11:27.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transactions.xaml.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Transactions.xaml.cs",
+              "RelativeDocumentMoniker": "Transactions.xaml.cs",
+              "ToolTip": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Transactions.xaml.cs",
+              "RelativeToolTip": "Transactions.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:41:46.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transactions.xaml",
+              "DocumentMoniker": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Transactions.xaml",
+              "RelativeDocumentMoniker": "Transactions.xaml",
+              "ToolTip": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Transactions.xaml",
+              "RelativeToolTip": "Transactions.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T14:41:35.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:40:46.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T14:40:48.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Model2.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Model2.edmx",
+              "RelativeDocumentMoniker": "Model2.edmx",
+              "ToolTip": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Model2.edmx [Diagram1]",
+              "RelativeToolTip": "Model2.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-09T14:51:19.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Model1.edmx",
+              "RelativeDocumentMoniker": "Model1.edmx",
+              "ToolTip": "D:\\Pharmacy Management System (1)\\Application\\Pharmacyapp\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-09T14:49:29.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
